@@ -1,4 +1,3 @@
-# LG_Aimer_2025
 # 📈 Resort Menu Demand Forecasting
 
 리조트 내 식음업장 **메뉴별 매출 수요 예측 시스템**입니다.
