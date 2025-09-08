@@ -48,7 +48,8 @@ Tree 모델, 딥러닝 모델, 통계 모델을 **혼합 앙상블**하여 **+1�
 
 * LG Aimers 해커톤 **수료**
 * 시계열 + 딥러닝 + 통계 모델을 결합한 앙상블 실험 수행
-* <img src="수료증_이미지_경로" width="400px"/>
+[📜 수료증 보기](https://github.com/PsyproLEE/LG_Aimer_2025/blob/main/image/LG%20Aimer%207th.pdf)
+
 
 ---
 
