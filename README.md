@@ -50,10 +50,3 @@ Tree 모델, 딥러닝 모델, 통계 모델을 **혼합 앙상블**하여 **+1�
 * 시계열 + 딥러닝 + 통계 모델을 결합한 앙상블 실험 수행
 [📜 수료증 보기](https://github.com/PsyproLEE/LG_Aimer_2025/blob/main/image/LG%20Aimer%207th.pdf)
 
-
----
-
-## 🙌 기여 & 연락
-
-* Issue/PR 환영합니다.
-* 문의: [your.email@example.com](mailto:your.email@example.com)
